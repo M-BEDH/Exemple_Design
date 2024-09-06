@@ -35,6 +35,13 @@ p {
     margin: 20px auto;
     text-align: center;
     font-size: 1.2em;
+    line-height: 1.2;
+}
+
+mark {
+    background-color: var(--primary);
+        font-weight: bold;
+    padding: 5px;
 }
 
 
@@ -211,7 +218,7 @@ footer {
     }
 
     p {
-        width: 80%;
+        width: 90%;
     }
 
     .contact-form {
