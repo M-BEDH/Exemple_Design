@@ -226,14 +226,11 @@ footer {
       position: fixed;
     }
 
-    .menu li {
-        margin: 5px;
-        padding: 10px 5px;
-    }
-
     .menu li a {
         color: var(--li_Mobile);
         font-weight: bold;
+        padding: 5px;
+        font-size: 14px;
     }
 
     p {
