@@ -224,6 +224,7 @@ footer {
     .mobile-nav {
       display: block;
       position: fixed;
+      height: 57px;
     }
 
     .menu li a {
