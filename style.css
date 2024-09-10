@@ -248,15 +248,3 @@ footer {
     }
 
 }
-
-
-
-@media (min-width: 480px) {
-    .mobile-nav {
-        display: none;
-    }
-
-    .menu {
-        display: flex;
-    }
-}
